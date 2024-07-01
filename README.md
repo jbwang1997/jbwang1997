@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**jbwang1997/jbwang1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=15&text=Hi,%20I'm%20Jiabao&fontAlignY=25&fontSize=30&fontColor=FFFFFF)
 
 Here are some ideas to get you started:
 
@@ -11,6 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbwang1997&show_icons=true&theme=graywhite&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jbwang1997.jbwang1997)
