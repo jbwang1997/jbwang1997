@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=15&text=Hi,%20I'm%20Jiabao&fontAlignY=25&fontSize=30&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=15&text=Hi,%20I'm%20Jiabao&fontAlignY=25&fontSize=30&fontColor=FFFFFF)
 
 Here are some ideas to get you started:
 
@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbwang1997&show_icons=true&theme=graywhite&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+Here are some status about me
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jbwang1997&show_icons=true&theme=graywhite&hide=issues&card_width=420)](https://github.com/anuraghazra/github-readme-stats)
+$~$
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbwang1997&theme=graywhite&layout=compact&langs_count=6&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jbwang1997.jbwang1997)
