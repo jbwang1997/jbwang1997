@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=15&text=Hi,%20I'm%20Jiabao!~👋&fontAlignY=25&fontSize=30&fontColor=FFFFFF)
 
-- 🔭 I am currently a second-year Ph.D. student in College of Computer Science at Nankai University, under the supervision of Prof. [Mingming Cheng](https://mmcheng.net/cmm/) and Prof. [Qibin Hou](https://houqb.github.io/).
-Earlier, I obtained my M.S. degree, in School of Automation at Northwestern Polytechnical University, under the supervision of Prof. Junwei Han and Proj. [Gong Cheng](https://gcheng-nwpu.github.io/).
+- 🔭 I am currently a third-year Ph.D. student in College of Computer Science at Nankai University, under the supervision of Prof. [Mingming Cheng](https://mmcheng.net/cmm/) and Prof. [Qibin Hou](https://houqb.github.io/).
+Earlier, I obtained my M.S. degree, in School of Automation at Northwestern Polytechnical University, under the supervision of Prof. Junwei Han and Prof. [Gong Cheng](https://gcheng-nwpu.github.io/).
 
 - 👁️ My research interests cover a range of topics in computer vision and machine learning, such as **2D/3D/oriented object detection** and **3D perception in autonomous driving**.
 I'm Currently learning the knowledge about **image synthesis**.
